@@ -1,0 +1,20 @@
+.box{
+    background-color: #ffff;
+    border: none;
+    box-shadow: 0px 0px 10px #8888;
+    border-radius: 10px;
+    height: 5rem;
+    width: 5rem;
+    font-size: 5em;
+    text-align: center;
+    font-weight: bold;
+    line-height: 5rem;
+    margin: 0.5rem;
+}
+.box:hover{
+    
+    box-shadow: 0px 0px 15px green;
+}
+.x{
+    color: red; 
+}
